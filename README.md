@@ -33,4 +33,5 @@ Este proyecto contiene pruebas automatizadas para la API de PetStore usando Kara
 - El proyecto está orientado a prácticas de automatización y aprendizaje.
 - Puedes modificar los archivos `.feature` para agregar o ajustar escenarios.
 - La configuración de entornos se encuentra en `karate-config.js`.
+- Esta es una nueva edicion
 
