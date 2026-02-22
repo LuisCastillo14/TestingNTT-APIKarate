@@ -23,7 +23,7 @@ Este proyecto contiene pruebas automatizadas para la API de PetStore usando Kara
 2. Ejecuta el siguiente comando en la raíz del proyecto:
 
    ```
-   mvn test
+   mvn clean test -Dtest=UsersRunner -Dkarate.options="--tags @regresion" -Dkarate.env=dev
    ```
 
 3. Los reportes se generan en la carpeta `target/karate-reports`.
